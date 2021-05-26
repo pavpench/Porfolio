@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-size: 62.5%;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  font-size: 1.6rem;
+
+  /* background: rgb(0, 0, 0); */
+  background: linear-gradient(321deg, #000000 0%, #1420d0 100%);
+}
+header {
+  margin: 1.5rem auto;
+  width: 95%;
+  height: 5rem;
+  background: linear-gradient(321deg, #00081134 0%, #1420d0 100%);
+  box-shadow: 0.8rem 0.8rem 0.8rem 1rem #070b2083,
+    -0.5rem -0.2rem 1.5rem 0.5rem #0a1279;
+}
+
+.two {
+  font-family: "Jura", sans-serif;
+  font-size: 5rem;
+  color: #0047b9;
+
+  width: 70%;
+  height: 70vh;
+
+  margin: 10rem auto;
+  padding: 5rem;
+  /* background-color: #02085f62; */
+  border-radius: 5rem;
+  box-shadow: 0.8rem 0.8rem 0.8rem 1rem #000316a9,
+    -0.5rem -0.2rem 1.5rem 0.5rem #1523e6;
+}
+/* .three {
+  background-color: midnightblue;
+} */

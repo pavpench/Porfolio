@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-size: 62.5%;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  font-size: 1.6rem;
+  background: linear-gradient(160deg, #0c73a2 35%, #0044bb 80%);
+}
+header {
+  margin: 2rem auto;
+  position: relative;
+  margin-right: 5rem;
+  width: 15%;
+
+  height: 5rem;
+  border-radius: 5rem;
+
+  background: rgba(44, 109, 194, 0);
+  box-shadow: 0.2rem 0.2rem 0.5rem 0.5rem #033e5579,
+    -0.2rem -0.2rem 0.5rem 0.5rem #1b9be6c9;
+}
+
+.two {
+  font-family: "Jura", sans-serif;
+  font-size: 5rem;
+  color: #083853;
+  width: 80%;
+  height: 80vh;
+
+  margin: 5rem auto;
+  padding: 5rem;
+  background: rgba(19, 107, 158, 0.637);
+
+  border-radius: 5rem;
+  box-shadow: 0.9rem 0.9rem 1rem 0.8rem #013d7941,
+    -0.8rem -0.8rem 1rem 0.5rem #3a86b962;
+}
+/* .three {
+  background-color: midnightblue;
+} */
